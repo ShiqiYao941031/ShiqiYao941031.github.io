@@ -1,25 +1,25 @@
 # Site settings
 title: Pointing to the Moon
-description: Blog of Yingkai Liu
+description: Blog of Shiqi Yao
 baseurl: "" 
-url: "https://yk-liu.github.io" 
+url: "https://shiqiyao941031.github.io" 
 
 # GitHub User settings
-username: Yingkai Liu
-github_username: yk-liu
-user_description: A Physics undergrad with a broad interest
-user_title: Physics Undergraduate
-email: yingkai.liu@outlook.com
+username: Shiqi Yao
+github_username: sq-yao
+user_description: A new to GIS
+user_title: student in GIS
+email: shiqi_yao@outlook.com
 
 # Blog Author settings
 author:
-  name:           Yingkai Liu
+  name:           Shiqi Yao
   picture:        
-  email:          yingkai.liu@outlook.com
-  description:    I'm a Physics undergrad with a broad interest.
+  email:          shiqi_yao@outlook.com
+  description:    A new to GIS
   twitter:
   facebook:
-  github:         https://github.com/yk-liu
+  github:         https://github.com/ShiqiYao941031
   linkedin:
 
 
