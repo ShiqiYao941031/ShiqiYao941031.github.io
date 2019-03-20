@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Here is a list of planning, ongoing and finished projects.
+Here is a list of planning.
 
 **Notice**: Now I am focused on blogging, so these codes maybe outdated.
 
@@ -13,4 +13,4 @@ Here is a list of planning, ongoing and finished projects.
 | [Ubuntu-on-thumb-drive](https://github.com/yk-liu/Ubuntu-on-thumb-drive) | to be organized           |
 | [Database for materials](https://github.com/yk-liu/database) | refactoring / writing doc |
 
-\* : A well organized EA can be found [here](https://github.com/PytLab/gaft). I am learning from his parallelization.
+\* : A well organized EA can be found [here](https://github.com/PytLab/gaft).
