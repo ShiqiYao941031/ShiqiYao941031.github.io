@@ -14,7 +14,7 @@ mathjax: true
 
 # This Site
 
-To learn.
+A collection of learned knowledge with GIS.
 
 # Posts
 
